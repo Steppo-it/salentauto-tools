@@ -1,7 +1,9 @@
 # salentauto-tools
 
 Strumenti web interni di Salentauto Srl (officina e logistica per noleggio a lungo termine, soprattutto Ayvens e Arval), Lecce.
-Pubblicati su GitHub Pages: https://stefanopaianosalent.github.io/salentauto-tools/
+Repo: https://github.com/Steppo-it/salentauto-tools (account personale di Stefano; fino a ottobre 2026 era sull'account aziendale `stefanopaianosalent`).
+Pubblicati su GitHub Pages: https://steppo-it.github.io/salentauto-tools/
+Il vecchio indirizzo `stefanopaianosalent.github.io` non è più valido: bookmarklet e link degli operai vanno puntati al nuovo.
 
 ## Come lavorare qui
 
